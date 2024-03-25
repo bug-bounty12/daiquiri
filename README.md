@@ -1,2 +1,1 @@
-# -daiquiri
-Python library to easily setup basic logging functionality
+This is Hackerone Bug Bounty Test
